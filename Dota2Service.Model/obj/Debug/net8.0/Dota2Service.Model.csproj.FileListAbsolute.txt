@@ -1,0 +1,11 @@
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\bin\Debug\net8.0\Dota2Service.Model.deps.json
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\bin\Debug\net8.0\Dota2Service.Model.dll
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\bin\Debug\net8.0\Dota2Service.Model.pdb
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\Dota2Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\Dota2Service.Model.AssemblyInfoInputs.cache
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\Dota2Service.Model.AssemblyInfo.cs
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\Dota2Service.Model.csproj.CoreCompileInputs.cache
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\Dota2Service.Model.dll
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\refint\Dota2Service.Model.dll
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\Dota2Service.Model.pdb
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\ref\Dota2Service.Model.dll

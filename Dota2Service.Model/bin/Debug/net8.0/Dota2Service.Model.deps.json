@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dota2Service.Model/1.0.0": {
+        "runtime": {
+          "Dota2Service.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dota2Service.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

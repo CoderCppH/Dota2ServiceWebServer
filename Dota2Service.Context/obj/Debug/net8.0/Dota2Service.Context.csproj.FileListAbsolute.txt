@@ -1,0 +1,17 @@
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\bin\Debug\net8.0\Dota2Service.Context.deps.json
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\bin\Debug\net8.0\Dota2Service.Context.dll
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\bin\Debug\net8.0\Dota2Service.Context.pdb
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.csproj.AssemblyReference.cache
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.AssemblyInfoInputs.cache
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.AssemblyInfo.cs
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.csproj.CoreCompileInputs.cache
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.dll
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\refint\Dota2Service.Context.dll
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.pdb
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\ref\Dota2Service.Context.dll
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\bin\Debug\net8.0\Dota2Service.Model.dll
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\bin\Debug\net8.0\Dota2Service.Model.pdb
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Ser.22C11F33.Up2Date
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\bin\Debug\net8.0\Dota2Service.Context.runtimeconfig.json
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.genruntimeconfig.cache
