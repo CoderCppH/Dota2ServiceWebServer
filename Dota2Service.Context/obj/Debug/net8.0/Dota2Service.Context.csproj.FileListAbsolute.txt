@@ -15,3 +15,4 @@ D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\bin\Debug\net8.0\Dota2Servic
 D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Ser.22C11F33.Up2Date
 D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\bin\Debug\net8.0\Dota2Service.Context.runtimeconfig.json
 D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.genruntimeconfig.cache
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Context\obj\Debug\net8.0\Dota2Service.Context.sourcelink.json

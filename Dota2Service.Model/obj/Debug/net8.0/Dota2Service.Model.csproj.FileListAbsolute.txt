@@ -9,3 +9,4 @@ D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\Dota2Service.
 D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\refint\Dota2Service.Model.dll
 D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\Dota2Service.Model.pdb
 D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\ref\Dota2Service.Model.dll
+D:\IT\Projects\C#\Dota2Service\Dota2Service.Model\obj\Debug\net8.0\Dota2Service.Model.sourcelink.json

@@ -23,7 +23,7 @@ namespace Dota2Service.UserService.Controlles
             return Ok(user);
         }
         [HttpPost("register")]
-        public async Task<ActionResult> RegisterUser(UserModel? user)
+        public async Task<ActionResult> RegisterUser(UserModelDtoRegister? user)
         {
             if (user is null)
                 return BadRequest("user nullable");
@@ -32,33 +32,41 @@ namespace Dota2Service.UserService.Controlles
             user.Password = PaaswordHash;
             if (await dbContext.Users.AnyAsync(u => u.Email != user.Email || u.Phone != user.Phone))
             {
-                user.Token = Token.TokenGenerator.GenerateToken();
-                dbContext.Users.Add(user);
+                UserModel userModel = new UserModel()
+                {
+                    Firstname = user.Firstname,
+                    Lastname = user.Lastname,
+                    Email = user.Email,
+                    Phone = user.Phone,
+                    Password = PaaswordHash,
+                    DateCreated = DateTime.UtcNow,
+                    RoleId = 1
+                };
+
+                userModel.Token = Token.TokenGenerator.GenerateToken();
+                dbContext.Users.Add(userModel);
                 await dbContext.SaveChangesAsync();
-                return Ok(new { result = "успешно создан новый пользователь", Token = user.Token ?? "not found" });
+                return Ok(new { result = "успешно создан новый пользователь", Token = userModel.Token ?? "not found" });
 
             }
             else
                 return BadRequest("такой пользователь уже найден");
         }
         [HttpPost("login")]
-        public async Task<ActionResult> LoginUser(UserModelDto? user)
+        public async Task<ActionResult> LoginUser(UserModelDtoLogin? user)
         {
             if (user is null)
                 return BadRequest("User data is required");
 
-            // Ищем пользователя только по email или телефону
             UserModel? fuser = await dbContext.Users
                 .FirstOrDefaultAsync(u => u.Email == user.Email || u.Phone == user.Phone);
 
             if (fuser == null)
                 return NotFound("User not found");
 
-            // Проверяем пароль уже в памяти
             if (!PasswordHash.VerifyPassword(user.Password, fuser.Password))
                 return Unauthorized("Invalid password");
 
-            // Генерация токена и возврат результата
             return Ok(new
             {
                 result = "Authentication successful",

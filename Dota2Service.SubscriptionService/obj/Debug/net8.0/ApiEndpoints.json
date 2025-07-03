@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Dota2Service.SubscriptionService.Controllers.SubscriptionController",
+    "Method": "GetListSubscription",
+    "RelativePath": "api/Subscription",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dota2Service.SubscriptionService.Controllers.SubscriptionController",
+    "Method": "CreateSubscription",
+    "RelativePath": "api/Subscription",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscription",
+        "Type": "Dota2Service.SubscriptionService.Dto.SubscriptionModelDto",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dota2Service.SubscriptionService.Controllers.SubscriptionController",
+    "Method": "CheckSubscription",
+    "RelativePath": "api/Subscription/check",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dota2Service.Context")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2febc93070870025419ce6c50d68e3afdc58e0ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dota2Service.Context")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dota2Service.Context")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

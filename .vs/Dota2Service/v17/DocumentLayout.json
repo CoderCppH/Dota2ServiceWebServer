@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\IT\\Projects\\C#\\Dota2Service\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AEC5A0FB-9F11-4150-8BD2-9CD3C20E26B7}|Dota2Service.Model\\Dota2Service.Model.csproj|d:\\it\\projects\\c#\\dota2service\\dota2service.model\\subscriptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC5A0FB-9F11-4150-8BD2-9CD3C20E26B7}|Dota2Service.Model\\Dota2Service.Model.csproj|solutionrelative:dota2service.model\\subscriptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC29F562-8985-31AC-D38C-C5B4DC3C41E2}|Dota2Service.SubscriptionService\\Dota2Service.SubscriptionService.csproj|d:\\it\\projects\\c#\\dota2service\\dota2service.subscriptionservice\\dto\\subscriptionmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC29F562-8985-31AC-D38C-C5B4DC3C41E2}|Dota2Service.SubscriptionService\\Dota2Service.SubscriptionService.csproj|solutionrelative:dota2service.subscriptionservice\\dto\\subscriptionmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E9A1739-EE3E-B401-9CAD-B305CDEACC8B}|Dota2Service.UserService\\Dota2Service.UserService.csproj|d:\\it\\projects\\c#\\dota2service\\dota2service.userservice\\controlles\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E9A1739-EE3E-B401-9CAD-B305CDEACC8B}|Dota2Service.UserService\\Dota2Service.UserService.csproj|solutionrelative:dota2service.userservice\\controlles\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC29F562-8985-31AC-D38C-C5B4DC3C41E2}|Dota2Service.SubscriptionService\\Dota2Service.SubscriptionService.csproj|d:\\it\\projects\\c#\\dota2service\\dota2service.subscriptionservice\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC29F562-8985-31AC-D38C-C5B4DC3C41E2}|Dota2Service.SubscriptionService\\Dota2Service.SubscriptionService.csproj|solutionrelative:dota2service.subscriptionservice\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEC5A0FB-9F11-4150-8BD2-9CD3C20E26B7}|Dota2Service.Model\\Dota2Service.Model.csproj|d:\\it\\projects\\c#\\dota2service\\dota2service.model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEC5A0FB-9F11-4150-8BD2-9CD3C20E26B7}|Dota2Service.Model\\Dota2Service.Model.csproj|solutionrelative:dota2service.model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E9A1739-EE3E-B401-9CAD-B305CDEACC8B}|Dota2Service.UserService\\Dota2Service.UserService.csproj|d:\\it\\projects\\c#\\dota2service\\dota2service.userservice\\dto\\usermodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E9A1739-EE3E-B401-9CAD-B305CDEACC8B}|Dota2Service.UserService\\Dota2Service.UserService.csproj|solutionrelative:dota2service.userservice\\dto\\usermodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E5AC07A-34EF-41A8-B614-BFEE06DBE7F8}|Dota2Service.Context\\Dota2Service.Context.csproj|d:\\it\\projects\\c#\\dota2service\\dota2service.context\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E5AC07A-34EF-41A8-B614-BFEE06DBE7F8}|Dota2Service.Context\\Dota2Service.Context.csproj|solutionrelative:dota2service.context\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC29F562-8985-31AC-D38C-C5B4DC3C41E2}|Dota2Service.SubscriptionService\\Dota2Service.SubscriptionService.csproj|d:\\it\\projects\\c#\\dota2service\\dota2service.subscriptionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC29F562-8985-31AC-D38C-C5B4DC3C41E2}|Dota2Service.SubscriptionService\\Dota2Service.SubscriptionService.csproj|solutionrelative:dota2service.subscriptionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,55 +38,80 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.Context\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "Dota2Service.Context\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.Context\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "Dota2Service.Context\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T05:58:08.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserModelDto.cs",
-              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.UserService\\Dto\\UserModelDto.cs",
-              "RelativeDocumentMoniker": "Dota2Service.UserService\\Dto\\UserModelDto.cs",
-              "ToolTip": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.UserService\\Dto\\UserModelDto.cs",
-              "RelativeToolTip": "Dota2Service.UserService\\Dto\\UserModelDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T05:54:11.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.Model\\UserModel.cs",
               "RelativeDocumentMoniker": "Dota2Service.Model\\UserModel.cs",
               "ToolTip": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.Model\\UserModel.cs",
               "RelativeToolTip": "Dota2Service.Model\\UserModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T05:33:12.36Z",
+              "WhenOpened": "2025-06-29T14:10:22.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.UserService\\Controlles\\UserController.cs",
               "RelativeDocumentMoniker": "Dota2Service.UserService\\Controlles\\UserController.cs",
               "ToolTip": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.UserService\\Controlles\\UserController.cs",
               "RelativeToolTip": "Dota2Service.UserService\\Controlles\\UserController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T04:15:39.503Z",
+              "WhenOpened": "2025-06-29T14:09:55.852Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscriptionModelDto.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.SubscriptionService\\Dto\\SubscriptionModelDto.cs",
+              "RelativeDocumentMoniker": "Dota2Service.SubscriptionService\\Dto\\SubscriptionModelDto.cs",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.SubscriptionService\\Dto\\SubscriptionModelDto.cs",
+              "RelativeToolTip": "Dota2Service.SubscriptionService\\Dto\\SubscriptionModelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:38:56.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionModel.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.Model\\SubscriptionModel.cs",
+              "RelativeDocumentMoniker": "Dota2Service.Model\\SubscriptionModel.cs",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.Model\\SubscriptionModel.cs",
+              "RelativeToolTip": "Dota2Service.Model\\SubscriptionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:38:06.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionController.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.SubscriptionService\\Controllers\\SubscriptionController.cs",
+              "RelativeDocumentMoniker": "Dota2Service.SubscriptionService\\Controllers\\SubscriptionController.cs",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.SubscriptionService\\Controllers\\SubscriptionController.cs",
+              "RelativeToolTip": "Dota2Service.SubscriptionService\\Controllers\\SubscriptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:34:49.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.SubscriptionService\\appsettings.json",
+              "RelativeDocumentMoniker": "Dota2Service.SubscriptionService\\appsettings.json",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Dota2Service\\Dota2Service.SubscriptionService\\appsettings.json",
+              "RelativeToolTip": "Dota2Service.SubscriptionService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T13:34:15.471Z"
             }
           ]
         }

@@ -45,7 +45,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "Dota2Service.UserService.Dto.UserModelDto",
+        "Type": "Dota2Service.UserService.Dto.UserModelDtoLogin",
         "IsRequired": false
       }
     ],
@@ -61,7 +61,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "Dota2Service.Model.UserModel",
+        "Type": "Dota2Service.UserService.Dto.UserModelDtoRegister",
         "IsRequired": false
       }
     ],

@@ -7,6 +7,7 @@ namespace Dota2Service.Model
         public int Id { get; set; }
         public DateTime DateStartSubscription { get; set; }
         public DateTime DateFinishSubscription { get; set; }
+        [JsonIgnore]
         public string Token { get; set; } = null;
         public int UserId { get; set; }
         [JsonIgnore]

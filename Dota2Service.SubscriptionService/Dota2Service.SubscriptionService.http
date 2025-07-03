@@ -1,0 +1,6 @@
+@Dota2Service.SubscriptionService_HostAddress = http://localhost:5124
+
+GET {{Dota2Service.SubscriptionService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

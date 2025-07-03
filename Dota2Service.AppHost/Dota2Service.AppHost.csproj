@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Dota2Service.SubscriptionService\Dota2Service.SubscriptionService.csproj" />
     <ProjectReference Include="..\Dota2Service.UserService\Dota2Service.UserService.csproj" />
   </ItemGroup>
 
